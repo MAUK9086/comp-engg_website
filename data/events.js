@@ -61,7 +61,23 @@ const y2022 = [
 }
   
 ];
-const y2023 = [];
+const y2023 = [
+{
+  "image": "",
+  "desc": "The 2023-24 Tech Fest, to be held on 2nd March, is a celebration of innovation, technology, and creativity. It will feature a range of competitions, exhibitions, and workshops aimed at bringing together students and tech enthusiasts to showcase their talents and learn from industry experts. Join us for a day of hands-on experiences, cutting-edge demonstrations, and networking opportunities!",
+  "date": "2nd March 2024",
+  "venue": "FET Auditorium, Jamia Millia Islamia",
+  "tagline": "2023-24 Tech Fest"
+},
+  {
+  "image": "",
+  "desc": "Immerse yourself in the world of cloud computing with the Google Cloud Study Jam! This interactive workshop will introduce you to the fundamentals of Google Cloud Platform (GCP), empowering you to build scalable and innovative applications. Learn from industry experts, collaborate with fellow learners, and gain hands-on experience through engaging labs and challenges. Whether you're a beginner or have some experience, this study jam is the perfect opportunity to kickstart your cloud journey.",
+  "date": "November 3, 2023",
+  "venue": "Online",
+  "tagline": "Google Cloud Study Jam"
+},
+  
+];
 const y2024 = [
 {
   "image": "",
@@ -76,6 +92,20 @@ const y2024 = [
   "date": "August 17-18, 2024",
   "venue": "Jamia Millia Islamia",
   "tagline": "Ukumi AI Hackathon"
+},
+  {
+  "image": "",
+  "desc": "The 2023-24 Tech Fest, to be held on 2nd March, is a celebration of innovation, technology, and creativity. It will feature a range of competitions, exhibitions, and workshops aimed at bringing together students and tech enthusiasts to showcase their talents and learn from industry experts. Join us for a day of hands-on experiences, cutting-edge demonstrations, and networking opportunities!",
+  "date": "2nd March 2024",
+  "venue": "FET Auditorium, Jamia Millia Islamia",
+  "tagline": "CYBERSYNAPSE 2024",
+  },
+  {
+  "image": "",
+  "desc": "Discover the power of generative AI with Google's cutting-edge technology. Learn about the latest advancements in AI and explore real-world applications. Join us for an online event that will inspire and educate you on the future of AI.",
+  "date": "April, 2024",
+  "venue": "Online",
+  "tagline": "Gen AI by Google"
 }
 
   ];
