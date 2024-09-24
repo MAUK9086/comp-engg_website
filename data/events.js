@@ -51,7 +51,16 @@ const y2020 = [
 }  
 ];
 const y2021 = [];
-const y2022 = [];
+const y2022 = [
+{
+  "image": "",
+  "desc": "International Conference on Recent Advances in Computer Science and Engineering (ICRACSE-2022), held on November 26-27, 2022, featuring prominent speakers from renowned universities and industries.",
+  "date": "November 26-27, 2022",
+  "venue": "Jamia Millia Islamia",
+  "tagline": "ICRACSE-2022"
+}
+  
+];
 const y2023 = [];
 const y2024 = [
 {
@@ -60,7 +69,15 @@ const y2024 = [
   "date": "1st July to 19th July, 2024",
   "venue": "Department of Computer Engineering, Jamia Millia Islamia",
   "tagline": "3-Weeks Short Term Training Program on AI & ML"
+},
+{
+  "image": "",
+  "desc": "The hackathon organized by Ukumi AI on August 17-18, 2024, at Jamia Millia Islamia aimed to build innovative tools for deriving meaningful insights from videos and demonstrating video understanding. Participants were encouraged to think from the perspective of YouTubers or students seeking to extract useful information from video content.",
+  "date": "August 17-18, 2024",
+  "venue": "Jamia Millia Islamia",
+  "tagline": "Ukumi AI Hackathon"
 }
+
   ];
 export const data = {
    "2015" : y2015,
