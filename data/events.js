@@ -39,12 +39,29 @@ const y2018= [{
   date: "11 am | 7th February, 2018",
   tagline: "JMI Honours Hotmail Founder Sabeer Bhatia",
 }];
+
 const y2019 = [];
-const y2020 = [];
+const y2020 = [
+{
+  "image": "",
+  "desc": "Join the Online Faculty Development Programme (FDP) on Python Programming, organized by Jamia Millia Islamia in collaboration with Spoken Tutorial IIT-B, from 7th to 11th September, 2020. The course covers Python fundamentals, hands-on sessions, and expert lectures from reputed institutions.",
+  "date": "7th September to 11th September, 2020",
+  "venue": "Online",
+  "tagline": "Online Faculty Development Programme on Python Programming"
+}  
+];
 const y2021 = [];
 const y2022 = [];
 const y2023 = [];
-const y2024 = [];
+const y2024 = [
+{
+  "image": "",
+  "desc": "Join the 3-week Short Term Training Program on Artificial Intelligence & Machine Learning at Jamia Millia Islamia. The course covers lectures, hands-on sessions, and modules on AI, Python, Data Science, Machine Learning, and Deep Learning using Keras & Tensorflow.",
+  "date": "1st July to 19th July, 2024",
+  "venue": "Department of Computer Engineering, Jamia Millia Islamia",
+  "tagline": "3-Weeks Short Term Training Program on AI & ML"
+}
+  ];
 export const data = {
    "2015" : y2015,
    "2016" : y2016,
