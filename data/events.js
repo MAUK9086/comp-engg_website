@@ -71,11 +71,18 @@ const y2023 = [
 },
   {
   "image": "",
+  "desc": "Join the 3-week Short Term Training Program on Artificial Intelligence & Machine Learning at Jamia Millia Islamia. The course covers lectures, hands-on sessions, and modules on AI, Python, Data Science, Machine Learning, and Deep Learning using Keras & Tensorflow.",
+  "date": "4th July to 22nd July, 2023",
+  "venue": "Department of Computer Engineering, Jamia Millia Islamia",
+  "tagline": "3-Weeks Short Term Training Program on AI & ML"
+},
+  {
+  "image": "",
   "desc": "Immerse yourself in the world of cloud computing with the Google Cloud Study Jam! This interactive workshop will introduce you to the fundamentals of Google Cloud Platform (GCP), empowering you to build scalable and innovative applications. Learn from industry experts, collaborate with fellow learners, and gain hands-on experience through engaging labs and challenges. Whether you're a beginner or have some experience, this study jam is the perfect opportunity to kickstart your cloud journey.",
   "date": "November 3, 2023",
   "venue": "Online",
   "tagline": "Google Cloud Study Jam"
-},
+}
   
 ];
 const y2024 = [
